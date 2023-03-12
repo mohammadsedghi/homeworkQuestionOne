@@ -1,6 +1,6 @@
 package questionone;
 
-public class DemoTurner {
+public class DemoTurner2 {
     public static void main(String[] args) {
         Leaf leaf=new Leaf();
         Page page=new Page();
