@@ -7,9 +7,7 @@ public class DemoTurner2 {
         Pancake pancake=new Pancake();
         Lamp lamp=new Lamp();
         Driver driver=new Driver();
-        leaf.turn();
-        page.turn();
-        pancake.turn();
+       
         lamp.turn();
         driver.turn();
     }
