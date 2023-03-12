@@ -1,5 +1,5 @@
 package questionone;
 
-public interface Tuerner {
+public interface Turner {
     public void turn();
 }
